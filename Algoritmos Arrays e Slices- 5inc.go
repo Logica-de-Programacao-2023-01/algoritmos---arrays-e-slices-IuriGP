@@ -21,7 +21,7 @@ func main() {
 	var c2l4 int
 	fmt.Scan(&c2l4)
 
-	matriz := [2][2]int{{n1, n2}, {n3, n4}, {n5, n6}}
+	matriz := [3][2]int{{n1, n2}, {n3, n4}}
 	fmt.Print(matriz)
 
 	matriz_2 := [2][2]int{{c2l1, c2l2}, {c2l3, c2l4}}

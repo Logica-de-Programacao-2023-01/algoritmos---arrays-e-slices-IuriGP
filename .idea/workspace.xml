@@ -47,7 +47,7 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build exemplos.go">
+  <component name="RunManager" selected="Go Build.go build Algoritmos Arrays e Slices- 5inc.go">
     <configuration name="go build Algoritmos Arrays e Slices- 5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
@@ -56,12 +56,12 @@
       <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices- 5.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Algoritmos Arrays e Slices-1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Algoritmos Arrays e Slices- 5inc.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices-1.go" />
+      <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices- 5inc.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build Algoritmos Arrays e Slices-3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Algoritmos Arrays e Slices- 5inc.go" />
         <item itemvalue="Go Build.go build exemplos.go" />
         <item itemvalue="Go Build.go build exercicios test.go" />
         <item itemvalue="Go Build.go build Algoritmos Arrays e Slices- 5.go" />
         <item itemvalue="Go Build.go build Algoritmos Arrays e Slices-3.go" />
-        <item itemvalue="Go Build.go build Algoritmos Arrays e Slices-1.go" />
       </list>
     </recent_temporary>
   </component>
