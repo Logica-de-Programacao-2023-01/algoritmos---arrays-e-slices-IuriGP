@@ -3,9 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	var x int
-	fmt.Scan(&x)
-	numeros := [5]int{x, 2, 3}
-	fmt.Print(numeros)
+	var x, tamanho int
+	fmt.Println("Digite o tamanho do Slice: ")
+	fmt.Scan(&tamanho)
 
+	for i := 0; i < tamanho; i++ {
+		fmt.Print("digite o numero")
+		fmt.Scan(&x)
+	}
 }
