@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b98ce72-d158-48eb-8f07-25bac1212ae6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-14.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-20inc.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices- 5inc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices- 5inc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices-4inc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-4inc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices-18inc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-18inc.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,8 @@
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "C:/Users/Admin/repos/algoritmos---arrays-e-slices-IuriGP",
     "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RunManager" selected="Go Build.go build Algoritmos Arrays e Slices-20.go">
