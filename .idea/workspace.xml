@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b98ce72-d158-48eb-8f07-25bac1212ae6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-4.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices- 5inc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-5.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices-18inc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-18inc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices-20inc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-20.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices-3inc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices-4inc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritmos Arrays e Slices-6.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmos Arrays e Slices-6.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,29 +52,13 @@
     "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/Admin/repos/algoritmos---arrays-e-slices-IuriGP",
+    "last_opened_file_path": "C:/Users/Admin/repos/testes",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+    "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build Algoritmos Arrays e Slices-20.go">
-    <configuration name="go build Algoritmos Arrays e Slices- 5inc.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---arrays-e-slices-IuriGP" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices- 5inc.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Algoritmos Arrays e Slices-20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---arrays-e-slices-IuriGP" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices-20.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build Algoritmos Arrays e Slices-8.go">
     <configuration name="go build Algoritmos Arrays e Slices-4inc.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
@@ -76,29 +67,45 @@
       <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices-4inc.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exemplos.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Algoritmos Arrays e Slices-6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exemplos.go" />
+      <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices-6.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicios test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Algoritmos Arrays e Slices-7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/.github/exercicios test.go" />
+      <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices-7.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Algoritmos Arrays e Slices-8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---arrays-e-slices-IuriGP" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Algoritmos Arrays e Slices-8.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ok.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---arrays-e-slices-IuriGP" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ok.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build Algoritmos Arrays e Slices-20.go" />
+        <item itemvalue="Go Build.go build Algoritmos Arrays e Slices-8.go" />
+        <item itemvalue="Go Build.go build Algoritmos Arrays e Slices-7.go" />
+        <item itemvalue="Go Build.go build ok.go" />
         <item itemvalue="Go Build.go build Algoritmos Arrays e Slices-4inc.go" />
-        <item itemvalue="Go Build.go build Algoritmos Arrays e Slices- 5inc.go" />
-        <item itemvalue="Go Build.go build exemplos.go" />
-        <item itemvalue="Go Build.go build exercicios test.go" />
+        <item itemvalue="Go Build.go build Algoritmos Arrays e Slices-6.go" />
       </list>
     </recent_temporary>
   </component>
@@ -115,11 +122,6 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/.github/exercicios test.go</url>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/Algoritmos Arrays e Slices- 5inc.go</url>
-          <line>4</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

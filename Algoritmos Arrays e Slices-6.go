@@ -8,11 +8,13 @@ func main() {
 	var x int
 	fmt.Scan(&x)
 
-	if x > numeros {
-		print("sim")
+	for _, numero := range numeros {
+		if x == numero {
+			fmt.Println("número encontrado")
+			break
+		} else {
+			fmt.Println("não é o número")
+		}
 
-	} else {
-		fmt.Print("nao")
 	}
-
 }
